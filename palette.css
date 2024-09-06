@@ -1,0 +1,37 @@
+:root[data-theme="light"] {
+    --text: #0a0b1f;
+    --background: #eff0fa;
+    --primary: #232871;
+    --secondary: #d982b7;
+    --accent: #ab3640;
+}
+
+:root[data-theme="dark"] {
+    --text: #e0e1f5;
+    --background: #050610;
+    --primary: #8e93dc;
+    --secondary: #7d265c;
+    --accent: #c9545e;
+}
+
+.bg-primary {
+
+    background-color: var(--primary);
+}
+
+
+.bg-secondary {
+
+    background-color: var(--secondary);
+}
+
+.text-primary {
+
+    color: var(--primary);
+
+}
+
+.text-secondary {
+
+    color: var(--primary);
+}
