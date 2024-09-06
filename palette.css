@@ -27,11 +27,11 @@
 
 .text-primary {
 
-    color: var(--primary);
+    color: var(--accent);
 
 }
 
 .text-secondary {
 
-    color: var(--primary);
+    color: var(--accent);
 }
